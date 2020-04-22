@@ -3,6 +3,8 @@
 
 This module contains the dashboard and its related components for the Merchant portal.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
